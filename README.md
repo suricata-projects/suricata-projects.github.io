@@ -59,19 +59,6 @@ No overengineered framework. No unnecessary build pipeline. Just a small, fast p
 └── README.md       # You are here
 ```
 
-## 🚀 Run it locally
-
-Clone the repository:
-
-```bash
-git clone https://github.com/suricata-projects/suricata-projects.github.io.git
-cd suricata-projects.github.io
-```
-
-Open `index.html` in your browser. That's it — no dependencies or installation required.
-
-To publish updates, push your changes to `main`. If Pages isn't enabled yet, visit **Settings → Pages → Build and deployment** and select **Deploy from a branch → main → / (root)**.
-
 ## 🌐 Find me in the wild
 
 | Platform | Signal |
@@ -82,8 +69,6 @@ To publish updates, push your changes to `main`. If Pages isn't enabled yet, vis
 | 💬 Discord | `itsusername` |
 | ⚔️ Battle.net | `Suricata#21238` |
 | 🌀 Rift | `itsusername` |
-
-*Steam vanity URL is based on the supplied username; please verify the link before sharing.*
 
 ---
 
