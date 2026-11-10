@@ -12,3 +12,8 @@ Go to **Settings → Pages → Build and deployment → Deploy from a branch →
 - Replace placeholder social links if your Steam vanity URL differs.
 - Artwork provided by the site owner. Third-party characters and marks remain with their respective owners.
 - Fonts load from Google Fonts; fallback fonts work offline.
+
+FILE_002 motorcycle image: assets/venom-ride.jpg (user-provided photograph, colour graded).
+
+## Version 5
+FILE_001 Nightingale-themed image and FILE_003 blue Ghostface image; original card layout and transitions preserved.
